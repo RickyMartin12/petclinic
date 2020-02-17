@@ -1,6 +1,8 @@
 
 <h1 style="text-align:center">CUBA Petclinic</h1>
 
+->THIS TEXT IS IN THE CENTER!<-
+
 <p align="center">
   <img src="https://github.com/cuba-platform/cuba-petclinic/blob/master/modules/web/themes/hover/branding/petclinic_logo_full.png"/>
 </p>
